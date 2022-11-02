@@ -15,5 +15,5 @@ The `volume-query.py` uses the drone deploy API. This script takes for arguments
 
 
 
-## Pile height
+## Object height
 Short script `pile-height.inpynb` to extract the difference in height (z) of points within a polygons. Originally set up to estimate stockpile height.
